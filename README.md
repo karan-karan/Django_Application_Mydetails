@@ -18,4 +18,5 @@ python manage.py runserver
 
 Open http://127.0.0.1:8000/ to view the profile.
 
+<img width="948" height="435" alt="image" src="https://github.com/user-attachments/assets/f982ce6c-9fd2-423c-b1b7-2f8c5a86182a" />
 
